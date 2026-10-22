@@ -33,4 +33,5 @@ import com.example.pertemuan6.R
 fun FormIsian(
     jenisK: List<String> = listOf("Laki-Laki", "Perempuan"),
     OnSubmitBtnClick : () -> Unit
-)
+){
+    
